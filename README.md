@@ -1,7 +1,6 @@
 # SenkoAdbenja
 My first Unity game.
 
-For some reason if you want to look at my code.
-Feel Free!
+Feel free to look at my code!
 
 Thanks for checking out my game.
